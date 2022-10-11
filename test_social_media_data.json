@@ -1,0 +1,13 @@
+{
+  "timestamp": "2022-09-15T00:00:40",
+  "posts": [
+    {
+      "content": "This is some really cool post content about Bitcoin. I love Bitcoin. This is an amazing invention, BTC is!",
+      "title": "Why Bitcoin is Amazing"
+    },
+    {
+      "content": "Dogecoin is the worst coin in existince. I lost everything because of DOGE. I hate dogecoin, the worst coin in existence.",
+      "title": "Dogecoin is terrible"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Message": {
+    "Records": [
+      {
+        "s3": {
+          "object": {
+            "key": "test_social_media_data.json"
+          },
+          "bucket": {
+            "name": "tutorial-mining-bucket"
+          }
+        }
+      }
+    ]
+  }
+}
